@@ -1,0 +1,8 @@
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\AzureSetup.cfg
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\wfastcgi.py
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Release\web.debug.config
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Release\deployment-updated-pyvenv.cfg
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\ptvs_virtualenv_proxy.py

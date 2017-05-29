@@ -1,0 +1,13 @@
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Debug\attach_server.py
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Debug\visualstudio_py_debugger.py
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Debug\visualstudio_py_repl.py
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Debug\visualstudio_py_util.py
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Debug\__init__.py
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Debug\__main__.py
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\AzureSetup.cfg
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\bin\wfastcgi.py
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Debug\web.config
+C:\Users\mspryn\Documents\Visual Studio 2015\Projects\TestKeras2\TestKeras2\obj\Debug\web.debug.config
